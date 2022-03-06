@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Jenin82
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c program and java
-
 <div>
     <div align=center>
         <img src="https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png" alt="GitHub Coder Cat" height="200">
