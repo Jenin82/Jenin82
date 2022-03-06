@@ -11,7 +11,7 @@
     <a align="left">
       <p><img align="left" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenin82&show_icons=true&theme=tokyonight&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Jenin82" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jenin82&show_icons=true&theme=dark&locale=en" alt="Jenin82" /></p></a>  
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jenin82&show_icons=true&theme=tokyonight&locale=en" alt="Jenin82" /></p></a>  
   </p>
 </p>
 </div>
