@@ -6,7 +6,7 @@
 <hr>
 <div style="display: block;">
 <p>
-  <h3 align="center">Stats:</h3>
+  <h3 align="left">Github Stats:</h3>
 <p>
     <a align="left">
       <p><img align="left" 
