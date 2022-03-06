@@ -4,7 +4,7 @@
 
 <div>
     <div align=center>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffellipe.com%2Fapps%2Fim-coder%2F&psig=AOvVaw1QRFchguhm5_YtKODN2x4i&ust=1646640075997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD48MCCsfYCFQAAAAAdAAAAABAJ" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png" alt="GitHub Coder Cat" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
