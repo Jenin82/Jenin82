@@ -1,7 +1,8 @@
 <div>
-    # Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/Jenin82/Jenin82/master/resources/banner.png" alt="Hello world">
+    <img
+      src="https://github.com/Jenin82/Jenin82/blob/main/images/stat.svg"
+      alt="WakaTime Activity"
+    />
 
 <p align="center"> 
   Visitor count<br>
