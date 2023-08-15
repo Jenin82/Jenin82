@@ -1,8 +1,4 @@
 <div>
-    <img
-      src="https://github.com/Jenin82/Jenin82/blob/main/images/stat.svg"
-      alt="WakaTime Activity"
-    />
 
 <p align="center"> 
   Visitor count<br>
