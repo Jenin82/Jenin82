@@ -1,7 +1,10 @@
 <div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenin82&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenin82&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenin82&theme=github_dark&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jenin82&theme=github_dark&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenin82&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jenin82&theme=github_dark&utcOffset=8)
 
 <p align="center"> 
   Visitor count<br>
