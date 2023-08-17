@@ -6,7 +6,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://wakatime.com/share/@4f2d4210-321d-4c21-8976-9fd2eb677960/6ea8c056-ddac-4f72-ac1e-3d6cbbe3c857.svg" />
+  <img src="https://profile-counter.glitch.me/Jenin82/count.svg" />
 </p>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
