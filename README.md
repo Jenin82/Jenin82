@@ -1,3 +1,4 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenin82&theme=github_dark)
 <div align=center>
 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="600px"/> <br><br>
 	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
@@ -10,7 +11,7 @@
 	<img src="https://profile-counter.glitch.me/Jenin82/count.svg" />
 </p>
 <div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenin82&theme=github_dark)
+
 </div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenin82&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jenin82&theme=github_dark&exclude=html)
