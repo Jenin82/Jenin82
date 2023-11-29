@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br>
+<!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
 	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 <div align=center>
@@ -55,8 +55,6 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="">
-<img src="">
 
 </div>
 <!-- <div align=center>
@@ -69,8 +67,6 @@
 	<br>
 	<br>
 </div> -->
-
----
 
 <!-- Grid Snake -->
 <p align="center">
