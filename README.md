@@ -2,9 +2,12 @@
 <!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
 	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jenin+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
+
 <div align=center>
 	<img src="https://wakatime.com/badge/user/4f2d4210-321d-4c21-8976-9fd2eb677960.svg" />
 </div>
+
+###
 
 <!-- Dev tools -->
 <div align="center">
